@@ -11,3 +11,9 @@ old rule), and how well the participant shifts strategies. This test is used to 
 function and cognitive control, for example how well people are able to suppress their previously learning
 one they realise it is no longer relevant. This is highly related to how people direct their attention and use
 their working memory.
+
+
+## How to run:
+
+Everything has been setup already.
+All you need is to run the run.sh file in bash.
