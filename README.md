@@ -15,5 +15,5 @@ their working memory.
 
 ## How to run:
 
-Everything has been setup already.
+Everything has been setup already. \\
 All you need is to run the run.sh file in bash.
